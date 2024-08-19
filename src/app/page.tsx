@@ -60,9 +60,7 @@ const Home = async () => {
           className=' rounded-xl object-cover'
           />
         </div>
-
-           <BookingItem />
-
+         <BookingItem />
         <h2 className=" mt-6 mb-3 text-xs font-bold uppercase text-gray-400">
           Recomendados 
         </h2>
